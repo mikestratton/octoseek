@@ -1,0 +1,26 @@
+a{
+    color: #663399;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff6633;
+}
+
+hr{
+    border-top: thin dotted #00ccff;
+    margin:60px 200px;
+}
+
+.navbar-octo{
+    background-color: white !important;
+    color:#ff6633;
+}
+
+.navbar-octo img{
+   height: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+
