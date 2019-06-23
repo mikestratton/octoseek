@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('octo-data');
+    return view('octo-seek');
 });
 
 Auth::routes();

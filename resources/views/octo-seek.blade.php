@@ -4,7 +4,7 @@
     <div class="container text-center">
         <div class="row mt-4">
             <div class="col-md-12">
-                <img class="img-fluid" style="max-height: 250px;" src="images/octodata-logo.svg" alt="octodata logo">
+                <img class="img-fluid" style="max-height: 250px;" src="images/octoseek-logo.png" alt="octoseek logo">
             </div>
 
         </div>
@@ -12,9 +12,10 @@
 
         <div class="row mt-4">
             <div class="col-md-12">
-                <h2 class="text-justify">Octo Data is a Magical Creature & Seeker of Knowledge. It's primary purpose is in the use
-                    of machine learning to comb through the sea of big data, to help your business in locating useful
-                    perls of information.</h2>
+                <h2 class="text-justify">Octo Seek is the development and evolution of an
+                    Artificially Intelligent software program. It's primary purpose is in the use
+                    of machine learning to comb through the sea of big data, to help your
+                    business in locating useful pearls of information. </h2>
             </div>
         </div>
         <hr>
