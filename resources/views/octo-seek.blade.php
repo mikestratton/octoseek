@@ -4,18 +4,16 @@
     <div class="container text-center">
         <div class="row mt-4">
             <div class="col-md-12">
-                <img class="img-fluid" style="max-height: 250px;" src="images/octoseek-logo.png" alt="octoseek logo">
+                <img class="img-fluid" style="max-height: 200px;" src="images/octoseek-logo.png" alt="octoseek logo">
             </div>
 
         </div>
 
 
         <div class="row mt-4">
-            <div class="col-md-12">
-                <h2 class="text-justify">Octo Seek is the development and evolution of an
-                    artificially intelligent software program. It's primary purpose is in the use
-                    of machine learning to comb through the sea of big data, to help your
-                    business in locating useful pearls of information. </h2>
+            <div class="col-md-8 offset-md-2">
+                <h1>Business automation software designed to
+                    seek and find pearls of useful data.</h1>
             </div>
         </div>
         <hr>
