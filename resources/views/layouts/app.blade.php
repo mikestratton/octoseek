@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Octo Data, Seeker of Knowledge, Magical Creature</title>
+    <title>Octo Seek | Locate Pearls of Useful Business Data</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
