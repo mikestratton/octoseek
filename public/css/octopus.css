@@ -15,11 +15,11 @@ hr{
 .navbar-octo{
     background-color: white !important;
     color:#ff6633;
+    margin-bottom:40px;
 }
 
 .navbar-octo img{
    height: 32px;
-    margin: 0;
     padding: 0;
 }
 
