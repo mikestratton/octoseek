@@ -21,3 +21,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/attorneys', 'AttorneyController@example');
 Route::get('/attorneys/results', 'AttorneyController@results');
+
+Route::get('/5000', 'AttorneyController@fiveThousand');

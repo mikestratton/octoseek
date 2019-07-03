@@ -15,5 +15,14 @@ class AttorneyController extends Controller
         return view('data.attorneys.attorney-example', compact('attorneys'));
     }
 
+    public function fiveThousand(){
+
+        $attorneys = Attorney::all();
+
+        $ak = Attorney::where('state', '=', 'AL')->take(100);
+
+        return 'it worked' . json_encode($ak);
+    }
+
 
 }
