@@ -34,8 +34,8 @@
                 </h5>
             </div>
             <div class="col-md-4">
-                <h5>Offices of Lawyers<br>
-                    NAICS Code 541110 <br>
+                <h5><a href="/attorneys"> Offices of Lawyers<br>
+                    NAICS Code 541110 </a><br>
 
                 </h5>
             </div>
