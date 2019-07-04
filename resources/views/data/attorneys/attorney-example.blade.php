@@ -11,8 +11,6 @@
 
 
                 </div>
-                /octoseek.com/database/csv$
-                zFgIqUCXAUIGfqLd4e2r
 
                 <div class="card-body">
                     <h3 class="pt-3 pb-3 text-primary">
