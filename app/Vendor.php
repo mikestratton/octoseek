@@ -22,4 +22,18 @@ class Vendor extends Model
         'sales',
         'industry',
     ];
+
+    public function getRouteKeyName()
+    {
+        return 'state';
+    }
+
+    public function scopeForVendor($builder, $vendor){
+
+        if($vendor){
+            return $builder->where('state', $vendor->state);
+        }
+
+        return $builder;
+    }
 }

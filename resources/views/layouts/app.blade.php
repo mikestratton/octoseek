@@ -43,7 +43,10 @@
                         <!-- Authentication Links -->
                         @guest
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('attorneys') }}">Sample Data</a>
+                                <a class="nav-link" href="{{ route('vendors') }}">Vendors Directory</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route('attorneys') }}">Attorney Sample Data</a>
                             </li>
 
                             <li class="nav-item">

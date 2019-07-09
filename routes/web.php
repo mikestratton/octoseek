@@ -23,3 +23,6 @@ Route::get('/attorneys', 'AttorneyController@example')->name('attorneys');
 Route::get('/attorneys/results', 'AttorneyController@results');
 
 Route::get('/5000', 'AttorneyController@fiveThousand');
+
+Route::get('/vendors', 'VendorController@index')->name('vendors');
+Route::get('/vendors/{vendor}', 'VendorController@index');

@@ -10,11 +10,16 @@ class VendorController extends Controller
     /**
      * Display a listing of the resource.
      *
+     * @param Vendor|null $vendor
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Vendor $vendor = null)
     {
-        //
+        $vendors = Vendor::forVendor($vendor)
+            ->orderBy('company', 'ASC')
+            ->paginate(10);
+
+        return view('data.vendors.vendors-example', compact('vendors'));
     }
 
     /**
@@ -82,4 +87,7 @@ class VendorController extends Controller
     {
         //
     }
+
+
+
 }
