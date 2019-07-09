@@ -29,8 +29,8 @@
                 </h5>
             </div>
             <div class="col-md-4">
-                <h5>Vending Machine Operators <br>
-                    NAICS Code 454210 <br>
+                <h5><a href="/vendors">Vending Machine Operators <br>
+                        NAICS Code 454210</a> <br>
                 </h5>
             </div>
             <div class="col-md-4">
