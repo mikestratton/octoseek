@@ -14,7 +14,7 @@
 
                 <div class="card-body">
                     <h3 class="pt-3 pb-3 text-primary">
-                      Attorney listings data sample<br><br>
+                      Attorney listings data sample. We data mine police reports and other public data.<br><br>
                     </h3>
 
                     <div id="tabs" class="ui-tabs ui-corner-all ui-widget ui-widget-content">
