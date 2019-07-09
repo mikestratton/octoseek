@@ -14,20 +14,20 @@ class AddColumnsToVendorsTable extends Migration
     public function up()
     {
         Schema::table('vendors', function (Blueprint $table) {
-            $table->string('company')->after('id');
-            $table->string('city')->after('id');
-            $table->string('state')->after('id');
-            $table->integer('zip')->after('id');
-            $table->string('address')->after('id');
-            $table->string('county')->after('id');
-            $table->string('phone')->after('id');
-            $table->string('fax')->after('id');
-            $table->string('name')->after('id');
-            $table->string('title')->after('id');
-            $table->string('gender')->after('id');
-            $table->integer('employees')->after('id');
-            $table->string('sales')->after('id');
             $table->string('industry')->after('id');
+            $table->string('sales')->after('id');
+            $table->integer('employees')->after('id');
+            $table->string('gender')->after('id');
+            $table->string('title')->after('id');
+            $table->string('name')->after('id');
+            $table->string('fax')->after('id');
+            $table->string('phone')->after('id');
+            $table->string('county')->after('id');
+            $table->string('address')->after('id');
+            $table->integer('zip')->after('id');
+            $table->string('state')->after('id');
+            $table->string('city')->after('id');
+            $table->string('company')->after('id');
         });
     }
 
