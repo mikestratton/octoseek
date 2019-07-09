@@ -26,3 +26,7 @@ Route::get('/5000', 'AttorneyController@fiveThousand');
 
 Route::get('/vendors', 'VendorController@index')->name('vendors');
 Route::get('/vendors/{vendor}', 'VendorController@index');
+Route::get('/vendor/{id}', 'VendorController@show')->name('vendor');
+
+
+

@@ -49,11 +49,13 @@ class VendorController extends Controller
      * @param  \App\Vendor  $vendor
      * @return \Illuminate\Http\Response
      */
-    public function show(Vendor $vendor)
+    public function show($id)
     {
-        //
-    }
+        $vendor = Vendor::findOrFail($id);
 
+        return view('data.vendors.show', compact('vendor'));
+
+    }
     /**
      * Show the form for editing the specified resource.
      *

@@ -10,7 +10,7 @@
     <title>Octo Seek | Locate Pearls of Useful Business Data</title>
 
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
+{{--    <script src="{{ asset('js/app.js') }}"></script>--}}
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -43,10 +43,10 @@
                         <!-- Authentication Links -->
                         @guest
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('vendors') }}">Vendors Directory</a>
+                                <a class="nav-link" href="{{ route('vendors') }}">Vendors</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('attorneys') }}">Attorney Sample Data</a>
+                                <a class="nav-link" href="{{ route('attorneys') }}">Attorneys</a>
                             </li>
 
                             <li class="nav-item">
