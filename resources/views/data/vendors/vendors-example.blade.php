@@ -13,6 +13,9 @@
                 </div>
 
                 <div class="card-body">
+                    <h3 class="pt-3 pb-3 text-primary">
+                       Vendor directory data sample<br><br>
+                    </h3>
 
                     @include('partials.vendor-data')
                 </div>
