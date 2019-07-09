@@ -21,11 +21,5 @@ class Vendor extends Model
         'employees',
         'sales',
         'industry',
-        'sic_code',
-        'sic_description',
-        'credit_score_alpha',
-        'credit_score_numeric',
-        'location_details',
-        'square_ft',
     ];
 }
