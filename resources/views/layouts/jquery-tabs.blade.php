@@ -35,7 +35,7 @@
             <nav class="navbar navbar-expand-md navbar-octo shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="{{ asset('images/octoseek-logo-web.png') }}" alt="Octo Data Logo">
+                    <img src="{{ asset('images/octoseek-logo.svg') }}" alt="Octo Data Logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
