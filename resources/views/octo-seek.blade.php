@@ -2,9 +2,9 @@
 
 @section('content')
     <div class="container text-center">
-        <div class="row mt-4">
+        <div class="row m-5">
             <div class="col-md-12">
-                <img class="img-fluid" style="max-height: 200px;" src="images/nickel.png" alt="octoseek logo">
+                <img class="img-fluid" style="max-height: 100px;" src="images/octoseek-logo.svg" alt="octoseek logo">
             </div>
 
         </div>
@@ -12,7 +12,7 @@
 
         <div class="row mt-4">
             <div class="col-md-8 offset-md-2">
-                <h1>Targeted sales leads for just <strong>5¢</strong> a lead.
+                <h1>Targeted sales leads starting at <strong>10¢</strong> a lead.
                     <br>Just select your target industry and
                     location. </h1>
                 <h2>
