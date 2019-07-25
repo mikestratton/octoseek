@@ -13,16 +13,25 @@
         <div class="row mt-4">
             <div class="col-md-8 offset-md-2">
                 <h1>Targeted sales leads starting at <strong>10¢</strong> a lead.
-                    <br>Just select your target industry and
-                    location. </h1>
-                <h2>
-                    <a href="csv-sample/apartment-sample.csv">
-                        Click here for a sample download of apartment rental agencies in New York
+                    <br>Searches are based off of: location, target industry and s</h1>
+             </div>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-4 offset-md-2">
+                <h2>Sample</h2>
+                <p class="text-left"><a href="csv-sample/apartment-sample.csv">
+                    Click here for a sample download of apartment rental agencies in New York
                     City, New York</a>
-                </h2>
-                <p>Octoseek.com is under active development.
-                    For inquiries please contact Sunny Tree Software at (330)802-0285</p>
+                </p>
             </div>
+
+            <div class="col-md-4 offset-md-1">
+                <h2>Contact</h2>
+                <p class="text-left">Octoseek.com is under active development. For inquiries please contact
+                    Michael Stratton, Founder of Sunny Tree Software at (330)802-0285</p>
+            </div>
+
         </div>
         <hr>
         <div class="row mt-5">
