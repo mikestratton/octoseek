@@ -29,4 +29,5 @@ Route::get('/vendors/{vendor}', 'VendorController@index');
 Route::get('/vendor/{id}', 'VendorController@show')->name('vendor');
 
 
-
+Route::get('/pricing', 'PagesController@pricing')->name('pricing');
+Route::get('/contact', 'PagesController@order')->name('order');
