@@ -13,19 +13,20 @@
                 <h1>Targeted sales leads starting at <strong>10¢</strong> a lead.</h1>
                 <h2>Define your search results parameters and we generate valuable data
                     within your target industry and area.</h2>
+                <hr>
 
                 <p  class="text-left">Available search results parameters: Key Executive Name, Phone/Fax, Employee Size,
                     Yearly Revenue,  Latitude/Longitude, SIC Code & Description, Non-profits,
                     Public/Private, Square Footage, Website, Women Owned, Fortune 1000 Ranking,
                     Credit Score, Home Based Business</p>
-
+                <hr>
              </div>
         </div>
 
         <div class="row mt-4">
             <div class="col-md-8 offset-md-2">
 
-                <h2 class="text-left">Contact</h2>
+                <h2>Contact</h2>
                 <p class="text-left">Octoseek.com is under active development. For inquiries please contact
                     Michael Stratton, Founder of Sunny Tree Software at (330)802-0285</p>
             </div>

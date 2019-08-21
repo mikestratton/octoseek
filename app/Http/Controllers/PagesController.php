@@ -15,4 +15,14 @@ class PagesController extends Controller
 
         return view('pages.order');
     }
+
+    public function operators(){
+
+        return view('pages.search-operators');
+    }
+
+    public function naics(){
+
+        return view('pages.naics-codes');
+    }
 }
