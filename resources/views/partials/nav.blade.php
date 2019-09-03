@@ -19,11 +19,15 @@
                             <a class="nav-link" href="{{ route('attorneys') }}">Attorneys</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="{{ route('naics') }}">NAICS</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="{{ route('pricing') }}">Pricing</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('order') }}">Contact</a>
                         </li>
+
                     @endguest
 
                 </ul>

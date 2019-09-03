@@ -31,3 +31,5 @@ Route::get('/vendor/{id}', 'VendorController@show')->name('vendor');
 
 Route::get('/pricing', 'PagesController@pricing')->name('pricing');
 Route::get('/contact', 'PagesController@order')->name('order');
+Route::get('/search-operators', 'PagesController@operators')->name('search-operators');
+Route::get('/naics-codes', 'PagesController@naics')->name('naics');
