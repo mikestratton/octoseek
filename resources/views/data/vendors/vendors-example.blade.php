@@ -14,9 +14,10 @@
 
                 <div class="card-body">
                     <h3 class="pt-3 pb-3 text-primary">
-                       Vendor directory data sample. We supply lists for vending machine operators.<br><br>
+                       Vendor directory data sample. We supply detailed location lists for vending machine operators and locators.<br><br>
                     </h3>
 
+                    <p>This list is intended to be used as a sample only. For a more detailed list please contact us.</p>
                     @include('partials.vendor-data')
                 </div>
             </div>
