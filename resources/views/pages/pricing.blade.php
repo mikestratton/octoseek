@@ -24,7 +24,16 @@
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Focused Search Parameters</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV/Excel Format</li>
                         </ul>
-                        <a href="/contact" class="btn btn-block btn-primary text-uppercase">Buy Now</a>
+                        <div class="text-center">
+
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <input type="hidden" name="cmd" value="_s-xclick">
+                                <input type="hidden" name="hosted_button_id" value="8SKR5CYV9Y2MA">
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                            </form>
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -40,7 +49,16 @@
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Focused Search Parameters</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV/Excel Format</li>
                         </ul>
-                        <a href="/contact" class="btn btn-block btn-primary text-uppercase">Buy Now</a>
+                        <div class="text-center">
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <input type="hidden" name="cmd" value="_s-xclick">
+                                <input type="hidden" name="hosted_button_id" value="HH5NHUCMCT2FE">
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                            </form>
+
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -56,7 +74,15 @@
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Focused Search Parameters</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV/Excel Format</li>
                         </ul>
-                        <a href="/contact" class="btn btn-block btn-primary text-uppercase">Buy Now</a>
+                        <div class="text-center">
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <input type="hidden" name="cmd" value="_s-xclick">
+                                <input type="hidden" name="hosted_button_id" value="VVCJFFY54FHGJ">
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                            </form>
+                        </div>
+
                     </div>
                 </div>
             </div>
