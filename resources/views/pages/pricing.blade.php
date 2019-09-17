@@ -22,7 +22,7 @@
                         <ul class="fa-ul">
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Records by Location</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Focused Search Parameters</li>
-                            <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV/Excel Format</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV, Excel and PDF Files Included</li>
                         </ul>
                         <div class="text-center">
 
@@ -47,7 +47,7 @@
                         <ul class="fa-ul">
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Records by Location</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Focused Search Parameters</li>
-                            <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV/Excel Format</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV, Excel and PDF Files Included</li>
                         </ul>
                         <div class="text-center">
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -72,7 +72,7 @@
                         <ul class="fa-ul">
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Records by Location</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Focused Search Parameters</li>
-                            <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV/Excel Format</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>CSV, Excel and PDF Files Included</li>
                         </ul>
                         <div class="text-center">
                             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
