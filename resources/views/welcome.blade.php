@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="images/octodata-logo.svg" alt="octodata logo">
+                    <img src="images/octoseek_logo_web.png" alt="octodata logo">
                 </div>
 
                 <div class="container">

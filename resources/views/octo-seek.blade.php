@@ -4,7 +4,7 @@
     <div class="container text-center">
         <div class="row m-5">
             <div class="col-md-12">
-                <img class="img-fluid" style="max-height: 100px;" src="images/octoseek-logo.svg" alt="octoseek logo">
+                <img class="img-fluid" style="max-height: 100px;" src="images/octoseek_logo.png" alt="octoseek logo">
             </div>
         </div>
 
